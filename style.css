@@ -1,0 +1,60 @@
+*{
+    font-family: poppins, sans-serif ;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #002339;
+    color: #ffff;
+}
+
+.container{
+    margin-top: 12%;
+    margin-left: 5%;
+}
+h1{
+    border-bottom: 3px solid #198754;
+    display: inline-block;
+    padding-bottom: 10px;
+}
+span{
+    color: #198754 ;
+}
+#outputBox{
+    height: 65px;
+    border-radius: 5px;
+    margin-left: 0px;
+    
+}
+input{
+    border: none;
+    width: 50%;
+    height: 50px ;
+    outline: none;
+    font-family: poppins, sans-serif ;
+    font-weight: 450;
+    font-size: 18px;
+    color: rgb(38, 38, 38);
+
+}
+
+#copyImg {
+    height: 30px;
+   
+
+
+}
+#copyImg:hover{
+    cursor: pointer;
+
+}
+
+#buttonImg{
+    height: 20px;
+}
+button{
+    /* width: 20%; */
+    height: 40px;
+}
